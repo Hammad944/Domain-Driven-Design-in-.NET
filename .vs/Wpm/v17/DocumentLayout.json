@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Salvay Dev\\ExpDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC43066A-B39D-4FB8-ADCA-E3F5D5FAEDA3}|Wpm.Managment.Domain.Tests\\Wpm.Managment.Domain.Tests.csproj|d:\\salvay dev\\expddd\\wpm.managment.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC43066A-B39D-4FB8-ADCA-E3F5D5FAEDA3}|Wpm.Managment.Domain.Tests\\Wpm.Managment.Domain.Tests.csproj|solutionrelative:wpm.managment.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FF8F10-5A66-44D4-91DB-E6B6631EAC60}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|d:\\salvay dev\\expddd\\wpm.management.domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FF8F10-5A66-44D4-91DB-E6B6631EAC60}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|solutionrelative:wpm.management.domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Salvay Dev\\ExpDDD\\Wpm.Managment.Domain.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Wpm.Managment.Domain.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Salvay Dev\\ExpDDD\\Wpm.Managment.Domain.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Wpm.Managment.Domain.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:58:29.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\Salvay Dev\\ExpDDD\\Wpm.Management.Domain\\Pet.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain\\Pet.cs",
+              "ToolTip": "D:\\Salvay Dev\\ExpDDD\\Wpm.Management.Domain\\Pet.cs",
+              "RelativeToolTip": "Wpm.Management.Domain\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:56:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
